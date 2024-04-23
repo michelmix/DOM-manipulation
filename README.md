@@ -77,7 +77,7 @@ Para avaliar seus conhecimentos de HTML, você deve modificar os elementos já e
 
 7. Crie um novo `Pull Request` *(PR)*
 
-- Vá até a página de *Pull Requests* do [repositório no GitHub](https://github.com/tryber/sd-0x-exercise-dom-manipulation/pulls)
+- Vá até a página de *Pull Requests* do [repositório no GitHub](https://github.com/tryber/sd-027-a-exercise-dom-manipulation/pulls)
 - Clique no botão verde *"New pull request"*
 - Clique na caixa de seleção *"Compare"* e escolha a sua branch **com atenção** - Coloque um título para o seu *Pull Request*
   - Exemplo: *"Cria tela de busca"*
@@ -87,7 +87,7 @@ Para avaliar seus conhecimentos de HTML, você deve modificar os elementos já e
 
  <img width="1335" alt="Exemplo de pull request" src="https://user-images.githubusercontent.com/42356399/166255109-b95e6eb4-2503-45e5-8fb3-cf7caa0436e5.png">
 
-- Volte até a [página de *Pull Requests* do repositório](https://github.com/tryber/sd-0x-exercise-dom-manipulation/pulls) e confira que o seu *Pull Request* está criado
+- Volte até a [página de *Pull Requests* do repositório](https://github.com/tryber/sd-027-a-exercise-dom-manipulation/pulls) e confira que o seu *Pull Request* está criado
 
 </details>
 <details>
