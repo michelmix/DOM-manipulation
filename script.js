@@ -4,3 +4,11 @@ const alteraTexto = () => {
 };
 
 alteraTexto();
+
+const alteraCor = () => {
+    let mainTag = document.getElementsByTagName('main')[0];
+    mainTag.style.backgroundColor = 'rgb(76, 164, 109)';
+}
+
+alteraCor();
+
