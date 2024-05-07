@@ -5,10 +5,24 @@ const alteraTexto = () => {
 
 alteraTexto();
 
-const alteraCor = () => {
+const alteraCorMain = () => {
     let mainTag = document.getElementsByTagName('main')[0];
     mainTag.style.backgroundColor = 'rgb(76, 164, 109)';
 }
 
-alteraCor();
+alteraCorMain();
 
+const alteraCorSection = () => {
+    let sectionTag = document.getElementsByClassName('center-content')[0];
+    sectionTag.style.backgroundColor = 'white';
+}
+
+alteraCorSection();
+
+
+const fixTextH1 = () => {
+    let textH1 = document.getElementsByClassName('title')[0];
+    textH1.innerText = 'Desafio - JavaScript';
+}
+
+fixTextH1();
